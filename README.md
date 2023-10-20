@@ -1,5 +1,6 @@
 # curriculum-carlos
 
+<code>
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Python, Java],
@@ -16,3 +17,4 @@ const aboutMe = {
    currentOccupation: ["Professor of Computer Science at IES Hermenegildo Lanz"],
    challenge: "Run 100 kilometers each month."
 }
+</code>
